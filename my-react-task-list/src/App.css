@@ -1,0 +1,27 @@
+.task-list {
+  background-color: #a9e0e0;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.list-title {
+  color: blue;
+}
+
+.task {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.task-actions button {
+  margin-left: 10px;
+}
+.task-list-item {
+  color: black;
+}
+
